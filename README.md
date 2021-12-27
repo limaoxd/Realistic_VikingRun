@@ -1,6 +1,6 @@
 # Realistic_VikingRun
 環境 : unity 20.3.21
-本遊戲借鑒 temple_run , 一樣是在無線生成的地圖上蒐集金幣和逃生!
+本遊戲借鑒 temple_run , 一樣是在無限生成的地圖上蒐集金幣和逃生!
 遊戲操作有 W , S , A , D ,SPACE.
 W : 開始前進 (放開不會停)
 S : 急煞 (沒什麼用 , 只是為了回到 idle 狀態)
